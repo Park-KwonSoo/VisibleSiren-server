@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "for khuthon project team[박장대소] server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "test"
+  },
+  "author": "ks.park",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}
